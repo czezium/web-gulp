@@ -1,0 +1,21 @@
+.title{
+    font-size: 72px;
+    font-family: "Nunito Sans";
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+.subtitle{
+    font-size: 16px;
+    margin-top: 0;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 30px;
+}
+
+@media (max-width: 500px) {
+    .title{
+        font-size: 20px;
+    }
+}
